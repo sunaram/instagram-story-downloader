@@ -27,4 +27,9 @@ On __Mac__,
 ```
 
 # Where's the downloaded stories?  
-Inside the "downloads" folder that's in the same directory as the executable
+Inside the "downloads" folder that's in the same directory as the executable  
+
+
+# Hire me at Upwork
+https://www.upwork.com/freelancers/~01792d97e7fdb01530  
+(profile only visible to logged in upwork users)
