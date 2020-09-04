@@ -1,0 +1,10 @@
+# node
+node_modules/
+# ignore downloads folder
+downloads/
+# session folder
+session/
+# ignore default builds
+app-*
+# ignore input csv
+usernames.csv
