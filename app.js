@@ -64,6 +64,11 @@ userIds.forEach(userId => {
     fs.mkdirSync(userPath, {recursive: true});
   }
 });
+// create session directory
+const sessionDir = "./session";
+if(!fs.existsSync(sessionDir)) {
+  fs.mkdirSync(sessionDir);
+}
 
 console.log("Time interval for checking new stories is set at "+ timeInterval / (60 * 1000) +"mins");
 
